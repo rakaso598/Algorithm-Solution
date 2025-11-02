@@ -1,5 +1,4 @@
-# LeetCode Solutions Portfolio
-
+# Algorithm Solution - 알고리즘 풀이 저장소
 Next.js 기반의 개인 알고리즘 풀이 포트폴리오입니다. 문제 풀이를 체계적으로 기록하고, 웹사이트로 관리할 수 있습니다.
 
 ## 주요 기능
